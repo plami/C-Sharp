@@ -1,0 +1,4 @@
+C:\Users\plamena\Documents\GitHub\C--problems\Problems\Problems\bin\Debug\Problems.exe.config
+C:\Users\plamena\Documents\GitHub\C--problems\Problems\Problems\obj\Debug\Problems.exe
+C:\Users\plamena\Documents\GitHub\C--problems\Problems\Problems\obj\Debug\Problems.pdb
+C:\Users\plamena\Documents\GitHub\C--problems\Problems\Problems\bin\Debug\ProblemOne.exe.config
